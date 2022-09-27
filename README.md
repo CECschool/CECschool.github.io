@@ -12,7 +12,7 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 ### *Stuff'n Things*
 
 - image ![image](https://user-images.githubusercontent.com/113057925/192616776-04b301e0-967c-47e0-85d2-c36e987c63fb.png)
-- video <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- video [![Video](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - or table?
 
 ### *Theory*
