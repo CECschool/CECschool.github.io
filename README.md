@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 
 ### *Stuff'n Things*
 
-do you want image 5 days ago
+do you want image https://cdn.theatlantic.com/thumbor/1o9oyu0KKShCl8V5oRlfud1URow=/0x0:1280x720/976x549/media/img/mt/2022/09/Neptune_close_up_NIRCam_Image/original.jpg
 or video
 or list?
 
