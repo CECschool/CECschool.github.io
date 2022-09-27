@@ -1,5 +1,5 @@
 # CECschool.github.io
-Will be my school repository
+## Will be my school repository
 
 Assignment for this, CSE2010
 https://docs.google.com/presentation/d/1evcAwq9K_kI5SDzfRj07URKzG4IChAZZHttsT-78vvQ/edit?usp=sharing
