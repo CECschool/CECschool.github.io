@@ -12,9 +12,13 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 ### *Stuff'n Things*
 
 - image 
+
 ![image](https://user-images.githubusercontent.com/113057925/192616776-04b301e0-967c-47e0-85d2-c36e987c63fb.png)
+
 - video 
+
 [![Video](http://img.youtube.com/vi/_xQNeOTRyig/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 - or table?
 
 | From Software games | Civil unrest |
@@ -25,6 +29,9 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 | Bloodborne, March 24, 2015 | Baltimore protests, April 19-May 6 2015 |
 | Dark Souls 3, March 24, 2016 | Sacramento riot, June 26, 2016 |
 | Elden Ring, February 25, 2022 | Invasion of Ukraine, Febuary 2022 |
+
+```diff
+- text in red
 
 ### *Theory* 
 
