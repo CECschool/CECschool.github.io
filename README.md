@@ -31,7 +31,10 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 | Elden Ring, February 25, 2022 | Invasion of Ukraine, Febuary 2022 |
 
 ```diff
-- text in red
+- Red is the colour of blood :)
+```
+
+
 
 ### *Theory* 
 
