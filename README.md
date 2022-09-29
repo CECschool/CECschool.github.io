@@ -45,7 +45,15 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 5. Search Engines, cloud storage, and online shopping all heavily rely on client/server connections.
 6. A system that links topics on screen to related information.
 7. The web is a part of the internet and is built on top of it, but is NOT the internet. 
-
+8. It sends and recieves the resources, such as HTML files, as a text based system, to be easier to read.
+9. HTTPS uses TLS to encrypt HTTP traffic, making it far more secure, and harder to be spied on.
+10. Web 1.0 is read only, Web 2.0 is participative social web, and Web 3.0 is read, write, execute Web.
+11. 1.0 only allowed static pages, somewhat like posters or books, and was used for finding information easily. 2.0 came with the creation of search engines, information processing, and ease of information sharing between end users, such as with social media. It is the most used version. 3.0 is about moving away from centeralized forms of communication, such as facebook. It also features natural language and AI, as well as not needing to be controlled by government entities. It does not yet exist.
+12. Markup allows for easy creation of websites without having errors, and while the website is a bit more than text.
+13. Markup is for text and websites, while scripting is for creating and seperating data and information
+14. SGML defines every part of a website, HTML defines syntax, as well as things not seen by the browser, DHTML is a mix of HTML and other technologies, XML allows users to make their own tags, XHTML is XML in an HTML format, without it being as difficult as XML, and markdown is a way to convert plain text to HTML.
+15. I learnt some basic HTML a few years back, but did not remember most of it. Markdown is my preferred for most functions.
+16. Being able to make websites allows for easy advertising and makes you pretty wanted in the online world for many companies.
 
 
 
