@@ -42,7 +42,9 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 2. Clients request a service, and servers spread the work between themselves, and the servers are connected to the internet
 3. Switches are used in physical internet, such as Ethernet. Servers are connected to the internet through physical connections, work stations are connected through LANs and T1 cables, and routers are connected through wireless connections.
 4. Each router is assigned a number stored in 4 bytes (IPv4), and any other router can send and recieve "packets" of information.
-5. Search Engines, cloud storage, and online shopping all heavily rely on 
+5. Search Engines, cloud storage, and online shopping all heavily rely on client/server connections.
+6. A system that links topics on screen to related information.
+7. The web is a part of the internet and is built on top of it, but is NOT the internet. 
 
 
 
