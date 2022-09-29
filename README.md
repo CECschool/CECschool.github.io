@@ -21,7 +21,7 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 
 - or table?
 
-| From Software games | Civil unrest |
+| __From Software games__ | __Civil unrest__ |
 | ------------- | ------------- |
 | Feb 5 2009 Demon Souls| Moldova Civil Unrest, April 12, 2009 |
 | Dark Souls 1, September 22, 2011 | Occupy Oakland and Oakland General Strike, Oct 25, 2011 and Nov 2, 2011|
@@ -37,4 +37,23 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 
 
 ### *Theory* 
+
+1. Data highway around the world, routed through strategically placed computers
+2. Clients request a service, and servers spread the work between themselves, and the servers are connected to the internet
+3. Switches are used in physical internet, such as Ethernet. Servers are connected to the internet through physical connections, work stations are connected through LANs and T1 cables, and routers are connected through wireless connections.
+4. Each router is assigned a number stored in 4 bytes (IPv4), and any other router can send and recieve "packets" of information.
+5. Search Engines, cloud storage, and online shopping all heavily rely on 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
