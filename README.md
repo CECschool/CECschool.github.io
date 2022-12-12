@@ -34,7 +34,8 @@ https://docs.google.com/presentation/d/1jYqojKbwCzVS2LBOJKFpXwD5k535xWMPIKYf_-VW
 - Red is the colour of blood :)
 ```
 
-###A fancy graph
+### *A fancy graph*
+
 https://cecschool.github.io/graph2.html
 
 ### *Theory* 
